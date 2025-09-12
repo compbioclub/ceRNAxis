@@ -4,7 +4,7 @@ Welcome to the official documentation of **ceRNAxis**!
 
 ## Overview
 
-**ceRNAxis** detects ceRNA network `mRNA-miRNA-lncRNA triplet axis` from RNA expression profiles.
+**ceRNAxis** detects ceRNA network `LncRNA-miRNA-mRNA triplet axis` from RNA expression profiles.
 
 We have manually curated a reference ceRNA network by integrating `TargetSCAN 8.0`, `miRTarBase 9.0`, `miRDB 6.0`, `NPInter 4.0`, `ENCORI/starBase 2.0`, `miRWalk V3`, and `RNAInter in 2020`. 
 
